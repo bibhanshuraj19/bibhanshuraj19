@@ -41,10 +41,10 @@
 
 
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=NoobToolzz&theme=tokyonight">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=NoobToolzz&count_private=true&show_icons=true&theme=tokyonight" />
+<a href="https://github-readme-stats.vercel.app/api?username=FakerToolzz&theme=tokyonight">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=FakerToolzz&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=NoobToolzz&hide=php&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoobToolzz&hide=php&theme=tokyonight" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=FakerToolzz&hide=php&theme=tokyonight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FakerToolzz&hide=php&theme=tokyonight" />
 </a>
 </div>
