@@ -43,5 +43,4 @@
 </a>
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=FakerToolzz&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+
