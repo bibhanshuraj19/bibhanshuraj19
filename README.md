@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm NotFaker</h1>
+<h1 align="center">Hi 👋, I'm Faker</h1>
 <h3 align="center">I'm a Python coder. Currently learning web development.</h3>
 
 <p align="center"> 
@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=5c12df&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/noobtoolzz" alt="Profile Stars"></a>
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=5c12df&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/noobtoolzz" alt="Profile Forks"></a>
 
-- 🔭 I’m currently working on [Recipes of the World](https://github.com/NoobToolzz/Recipes-of-the-World)
+- 🔭 I’m currently working on [Recipes of the World](https://github.com/FakerToolz/Recipes-of-the-World)
 
 - 🌱 I’m currently learning **HTML & CSS**
 
@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/bloodytoolzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bloodytoolzz" height="30" width="40" /></a>
-<a href="https://discord.gg/sJTjPzaPT5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sJTjPzaPT5" height="30" width="40" /></a>
+<a href="[https://discord.gg/sJTjPzaPT5](https://discord.gg/5G5MaxpX)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sJTjPzaPT5" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
