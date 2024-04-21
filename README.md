@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/FakerToolzz?tab=repositories)
 
-- 💬 Ask me about **Python, HTML, CSS**
+- 💬 Ask me about **Python, HTML, CSS, C, C++**
 
 - 📫 You can reach me through Discord @fakertoolzz
 
