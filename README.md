@@ -16,7 +16,7 @@
 
 ## 🌐 Socials:
 <a href="https://www.youtube.com/c/FakerToolzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bloodytoolzz" height="30" width="40" /></a>
-<a href="https://discord.gg/sJTjPzaPT5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sJTjPzaPT5" height="30" width="40" /></a>
+<a href="https://discord.gg/tBfGn9bs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sJTjPzaPT5" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
