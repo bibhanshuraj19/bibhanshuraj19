@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faker</h1>
 <h3 align="center">I'm a Python coder that has no friends and hates life. Currently learning web development.</h3>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31efcvuwbzuwggzt2t6523avm4dy)
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31efcvuwbzuwggzt2t6523avm4dy&count={count})
 <p align="center"> 
 <a href="https://discord.com/users/1112286581877899326">
   <img src=https://discord.c99.nl/widget/theme-2/1112286581877899326.png alt="Discord Status Banner"><br><br>
