@@ -2,6 +2,7 @@
 <h3 align="center">I'm a Python coder that has no friends and hates life. Currently learning web development.</h3>
 
 
+<p align="center"> 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31efcvuwbzuwggzt2t6523avm4dy&unique={true|1|on|yes})
 
 
