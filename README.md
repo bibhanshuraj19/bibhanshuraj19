@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [](https://github.com/NoobToolzz/)
 
-- 🌱 I’m currently learning **HTML & CSS**
+- 🌱 I’m currently working on **Pyhton**
 
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/FakerToolzz?tab=repositories)
 
