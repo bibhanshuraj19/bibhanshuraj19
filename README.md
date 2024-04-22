@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faker</h1>
-<h3 align="center">I'm a Python coder that has no friends and hates life. Currently learning web development.</h3>
+<h3 align="center">I'm a Python coder . Currently learning Python.</h3>
 
 
 <p align="center"> 
