@@ -22,7 +22,7 @@
 
 - 📫 You can reach me through Discord @fakertoolzz
 
-- ⚡ Fun fact **I hate unformatted code**
+- ⚡ Fun fact **I hate unformatted codes**
 
 ## 🌐 Socials:
 <a href="https://www.youtube.com/c/FakerToolzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bloodytoolzz" height="30" width="40" /></a>
