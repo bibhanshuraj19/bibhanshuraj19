@@ -12,13 +12,13 @@
 
 
 
-- 🔭 I’m currently working on [Python Projects](https://github.com/FakerToolzz/PythonProjects)
+- 🔭 I’m currently working on [Python Projects](https://github.com/FakerToolzz/)
 
 - 🌱 I’m currently working on **Pyhton**
 
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/FakerToolzz?tab=repositories)
 
-- 💬 Ask me about **Python, HTML, CSS, C, C++**
+- 💬 Ask me about **Python, HTML, CSS, C, C++, Java**
 
 - 📫 You can reach me through Discord @fakertoolzz
 
