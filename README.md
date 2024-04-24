@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Faker</h1>
-<h3 align="center">I'm a coder . </h3>
+<h3 align="center">I'm a Python developer that has no friends and hates life. </h3>
 
 
 <p align="center"> 
+  <a href="https://discord.com/users/1182703755129520231">
 <img src="https://komarev.com/ghpvc/?username=fakertoolzz&label=Profile%20views&color=5c12df&style=flat" alt="fakertoolzz" />
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=5c12df&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/fakertoolzz" alt="Profile Stars"></a><img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=5c12df&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/fakertoolzz" alt="Profile Forks"></a>
 
