@@ -12,7 +12,7 @@
 
 
 
-- 🔭 I’m currently working on [Projects](https://github.com/FakerToolzz/)
+- 🔭 I’m currently working on [PYTHONproject](https://github.com/FakerToolzz?tab=repositories)
 
 - 🌱 I’m currently working on **Pyhton**
 
