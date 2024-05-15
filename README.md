@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Faker</h1>
+<h1 align="center">Hi 👋, I'm Wings</h1>
 <h3 align="center">  </h3>
 
 
@@ -16,11 +16,11 @@
 
 - 🌱 I’m currently working on **Pyhton**
 
-- 👨‍💻 All of my projects are available on [GitHub](https://github.com/FakerToolzz?tab=repositories)
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/WingsToolzz?tab=repositories)
 
 - 💬 Ask me about **Python, C, C++, Java**
 
-- 📫 You can reach me through Discord @fakertoolzz
+- 📫 You can reach me through Discord @wingstoolzz
 
 - ⚡ Fun fact **I hate unformatted codes**
 
