@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faker</h1>
-<h3 align="center">I am developer who has no friends</h3>
+<h3 align="center"> - - </h3>
 
 <p align="center"> 
 <a href="https://discord.com/users/1182703755129520231">
