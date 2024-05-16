@@ -12,7 +12,7 @@
 
 
 
-- 🔭 I’m currently working on [pythonProject](https://github.com/FakerToolzz?tab=repositories)
+- 🔭 I’m currently working on [pythonProjects](https://github.com/FakerToolzz?tab=repositories)
 
 - 🌱 I’m currently working on **Pyhton**
 
@@ -55,10 +55,10 @@
 
 
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=WingsToolzz&theme=tokyonight">
+<a href="https://github-readme-stats.vercel.app/api?username=FakerToolzz&theme=tokyonight">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=FakerToolzz&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=WingsToolzz&hide=php&theme=tokyonight">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=FakerToolzz&hide=php&theme=tokyonight">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FakerToolzz&hide=php&theme=tokyonight" />
 </a>
 </div>
