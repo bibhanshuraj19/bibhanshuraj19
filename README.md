@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Faker</h1>
+<h1 align="center">Hi 👋, I'm GodWîn</h1>
 <h3 align="center"> - - </h3>
 
 <p align="center"> 
@@ -11,7 +11,7 @@
 
 
 
-- 🔭 I’m currently working on [pythonProject](https://github.com/FakerToolzz/pythonProject)
+- 🔭 I’m currently working on [](https://github.com/FakerToolzz/pythonProject)
 
 - 🌱 I’m currently learning WebDevlopment
   
@@ -19,7 +19,7 @@
 
 - 📫 You can reach me through Discord @fakertoolzz
 
-- 📫 You can reach me through Mail [fakertoolzz@gmail.com](fakertoolzz@gmail.com)
+- 📫 You can reach me through Mail [godw19n@gmail.com](fakertoolzz@gmail.com)
 
 - ⚡ Fun fact **I think I am funny**
 
