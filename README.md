@@ -27,7 +27,7 @@
 <p align="left">
 <a href="https://twitter.com/fakertoolzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fakertoolzz" height="30" width="40" /></a>
 <a href="https://kaggle.com/fakertoolzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fakertoolzz" height="30" width="40" /></a>
-<a href="https://instagram.com/fakertoolzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fakertoolzz" height="30" width="40" /></a>
+<a href="https://instagram.com/godwi9n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fakertoolzz" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/fakertoolzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fakertoolzz" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/26YyDqkCcg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/26YyDqkCcg" height="30" width="40" /></a>
 </p>
