@@ -32,6 +32,6 @@
 <a href="https://discord.gg/https://discord.gg/26YyDqkCcg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/26YyDqkCcg" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fakertoolzz&show_icons=true&locale=en&layout=compact" alt="fakertoolzz" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bibhanshu19&show_icons=true&locale=en&layout=compact" alt="bibhanshu19" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fakertoolzz&show_icons=true&locale=en" alt="fakertoolzz" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bibanshu19&show_icons=true&locale=en" alt="bibhanshu19" /></p>
