@@ -28,7 +28,6 @@
 <a href="https://twitter.com/bibhanshu19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bibhanshu19" height="30" width="40" /></a>
 <a href="https://kaggle.com/bibhanshu19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bibhanshu19" height="30" width="40" /></a>
 <a href="https://instagram.com/bibhanshu19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bibhanshu19" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/bibhanshu19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bibhanshu19" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/26YyDqkCcg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/26YyDqkCcg" height="30" width="40" /></a>
 </p>
 
