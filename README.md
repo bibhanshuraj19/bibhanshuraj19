@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on **nothing**.
 
-- 🌱 I’m currently learning **Artificial Intellingence**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/bibhanshu19?tab=repositories)
 
