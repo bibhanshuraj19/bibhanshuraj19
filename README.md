@@ -20,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/bibhanshu19?tab=repositories)
 
-- 💬 Ask me about **Python, HTML, CSS**
+- 💬 Ask me about **Python, HTML, C**
 
 - 📫 You can reach me through [Discord](https://discord.com/users/1182703755129520231)
 
