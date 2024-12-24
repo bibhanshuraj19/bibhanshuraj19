@@ -20,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/bibhanshu19?tab=repositories)
 
-- 💬 Ask me about **Python, HTML, C**
+- 💬 Ask me about **Python, C**
 
 - 📫 You can reach me through [Discord](https://discord.com/users/1182703755129520231)
 
@@ -44,10 +44,3 @@
   </a>
 </p>
 
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
