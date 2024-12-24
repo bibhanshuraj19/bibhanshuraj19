@@ -44,12 +44,8 @@
   </a>
 </p>
 
-
-<div>
-<a href="https://github-readme-stats.vercel.app/api?username=bibhanshuraj19&theme=tokyonight">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=bibhanshuraj19&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=bibhanshuraj19&hide=php&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibhanshuraj19&hide=php&theme=tokyonight" />
-</a>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
