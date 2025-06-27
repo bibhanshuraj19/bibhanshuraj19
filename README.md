@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm RAJ</h1>
-<h3 align="center">I'm a .</h3>
+<h1 align="left">Hello there 👋 What's up?</h1>
+<p align="left">My name is RAJ and I'm a Machine Learning Engineer and enthusiastic about LLMs from India. <br>Working to become proficient in ML model deployment, applying ML in real-world application.</p>
 
 <p align="center">
   <a href="https://discord.com/users/1182703755129520231">
@@ -25,6 +25,7 @@
 - 📫 You can reach me through [Discord](https://discord.com/users/1182703755129520231)
 
 - ⚡ Fun fact **I dislike unformatted code**
+              **Currently Learning Python Frameworks**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
