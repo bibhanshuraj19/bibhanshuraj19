@@ -29,8 +29,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" width="52" alt="pytorch logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" width="52" alt="scikit-learn logo" />
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" width="52" alt="huggingface logo" />
-  <img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" height="40" width="52" alt="openai logo" />
-  <img src="https://avatars.githubusercontent.com/u/119166388?s=200&v=4" height="40" width="52" alt="langchain logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" width="52" alt="jupyter logo" />
