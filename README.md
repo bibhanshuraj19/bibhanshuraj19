@@ -1,5 +1,5 @@
 <h1 align="left">Hello there, I'm RAJ.</h1>
-<p align="left">I'm a Machine Learning Engineer and enthusiastic about LLMs from India.</p>
+<p align="left">I'm a Machine Learning Engineer with a deep curiosity about how creative LLMs can be and their potential.</p>
 
 <p align="center">
   <a href="https://discord.com/users/1182703755129520231">
@@ -14,13 +14,11 @@
 </p>
 
 
-- 🔭 I’m currently working on **nothing**.
+- 🔭 I’m currently working on **LLMs**.
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I use **Python** as my main language.
 
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/bibhanshu19?tab=repositories)
-
-- 💬 Ask me about **Python, C**
 
 - 📫 You can reach me through [Discord](https://discord.com/users/1182703755129520231)
 
