@@ -13,6 +13,8 @@
   <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Forks&color=5c12df&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/bibhanshu19" alt="Profile Forks">
 </p>
 
+<h2 align="left">About me</h2>
+<p align="left">
 - 🔭 I’m currently working on **LLMs**.
   
 - 🌱 I use **Python** as my main language.
@@ -24,6 +26,9 @@
 - ⚡ Fun fact **I dislike unformatted code**
 
 - ✨ I'm currently learning **Python Frameworks**
+
+</p>
+
               
 
 
