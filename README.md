@@ -14,12 +14,12 @@
 </p>
 
 <h2 align="left">About me</h2>
-<p align="left">🔭 I’m currently working on <strong>LLMs</strong>.</p>
-<p align="left">🌱 I use <strong>Python</strong> as my main language.</p>
-<p align="left">👨‍💻 All of my projects are available on <a href="https://github.com/bibhanshu19?tab=repositories">GitHub</a>.</p>
-<p align="left">📫 You can reach me through <a href="https://discord.com/users/1182703755129520231">Discord</a>.</p>
-<p align="left">⚡ Fun fact: <strong>I dislike unformatted code</strong>.</p>
-<p align="left">✨ I'm currently learning <strong>Python Frameworks</strong>.</p>
+<p align="left">- 🔭 I’m currently working on <strong>LLMs</strong>.</p>
+<p align="left">- 🌱 I use <strong>Python</strong> as my main language.</p>
+<p align="left">- 👨‍💻 All of my projects are available on <a href="https://github.com/bibhanshu19?tab=repositories">GitHub</a>.</p>
+<p align="left">- 📫 You can reach me through <a href="https://discord.com/users/1182703755129520231">Discord</a>.</p>
+<p align="left">- ⚡ Fun fact: <strong>I dislike unformatted code</strong>.</p>
+<p align="left">- ✨ I'm currently learning <strong>Python Frameworks</strong>.</p>
 
 <h2 align="left">Technologies I'm familiar with</h2>
 <div align="left">
