@@ -26,12 +26,6 @@
 - ✨ I'm currently learning **Python Frameworks**
               
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://discord.com/users/1182703755129520231" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-  </a>
-</p>
 
 <h2 align="left">Technologies I'm familiar with</h2>
 <div align="left">
