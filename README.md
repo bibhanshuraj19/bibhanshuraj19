@@ -1,5 +1,5 @@
 <h1 align="left">Hello there, I'm RAJ.</h1>
-<p align="left">I'm a Machine Learning Engineer with a deep curiosity about how creative LLMs can be and what potential hold.</p>
+<p align="left">I'm a Machine Learning Engineer with a deep curiosity about how creative LLMs can be.</p>
 
 <p align="center">
   <a href="https://discord.com/users/1182703755129520231">
