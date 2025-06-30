@@ -16,7 +16,7 @@
 <h2 align="left">About me</h2>
 <p align="left">- 🔭 I’m currently working on <strong>LLMs</strong>.</p>
 <p align="left">- 🌱 I use <strong>Python</strong> as my main language.</p>
-<p align="left">- 👨‍💻 All of my projects are available on <a href="https://github.com/bibhanshu19?tab=repositories">GitHub</a></p>
+<p align="left">- 👨‍💻 All of my projects are available on <a href="https://github.com/bibhanshuraj19?tab=repositories">GitHub</a></p>
 <p align="left">
   - 📫 You can reach me through 
   <a href="https://discord.com/users/1182703755129520231">Discord</a> 
