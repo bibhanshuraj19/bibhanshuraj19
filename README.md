@@ -2,7 +2,7 @@
 <p align="left">I'm a Machine Learning Engineer with a deep curiosity about how creative LLMs can be.</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6B00F7&height=150&section=header&text=Welcome+to+My+Profile!&fontSize=30&fontColor=fff" alt="Waving Banner">
+  <img src="[https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6B00F7&height=150&section=header&text=Welcome+to+My+Profile!&fontSize=30&fontColor=fff" alt="Waving Banner](https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif)">
 </p>
 
 
