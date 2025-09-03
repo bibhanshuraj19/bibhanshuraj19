@@ -2,8 +2,9 @@
 <p align="left">I'm a Machine Learning Engineer with a deep curiosity about how creative LLMs can be.</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6B00F7&height=150&section=header&text=Welcome+to+My+Profile!&fontSize=30&fontColor=fff" alt="Waving Banner">
+  <img src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTY4OTQ5MDIsIm5iZiI6MTc1Njg5NDYwMiwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTAzVDEwMTY0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWEwZTdmNjUwYWFjODI0Y2FlY2MzOGM5Y2FiNzQ4OWVlY2NiODE5NDNhY2NlNmYyMzhiOWY0MTcxZTYzMDgxMzMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.5n30kAu5CCXvU3XT16ByJPQoZhleTkPEL26uaJtKayQ" alt="Cool Banner">
 </p>
+
 
 
 
