@@ -2,10 +2,11 @@
 <p align="left">I'm a Machine Learning Engineer with a deep curiosity about how creative LLMs can be.</p>
 
 <p align="center">
-  <a href="https://discord.com/users/1182703755129520231">
-    <img src="https://lanyard.cnrad.dev/api/1182703755129520231" alt="Discord Presence">
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6B00F7&height=150&section=header&text=Welcome+to+My+Profile!&fontSize=30&fontColor=fff" alt="Waving Banner">
 </p>
+
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bibhanshu19&label=Profile%20views&color=5c12df&style=flat" alt="Profile views">
