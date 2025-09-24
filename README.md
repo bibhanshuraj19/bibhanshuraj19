@@ -34,6 +34,7 @@
 <p align="left">- ⚡ Fun fact: <strong>I dislike unformatted code</strong>.</p>
 <p align="left">- ✨ I'm currently learning <strong>Python Frameworks</strong>.</p>
 
+
 <h2 align="left">Technologies I'm familiar with</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo" />
