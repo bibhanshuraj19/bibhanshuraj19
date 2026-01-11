@@ -23,10 +23,6 @@
   🔭 Currently working with <strong>Large Language Models</strong> and evaluation pipelines.<br>
   🌱 Mainly write code in <strong>Python</strong>, occasionally C++ when needed.<br>
   👨‍💻 Check out my work on <a href="https://github.com/bibhanshuraj19?tab=repositories"><strong>GitHub</strong></a>.<br>
-  📫 Reach me on 
-  <a href="https://discord.com/users/1182703755129520231"><strong>Discord</strong></a>, 
-  <a href="https://twitter.com/bibhanshuraj19"><strong>Twitter</strong></a>, or 
-  <a href="mailto:bibhanshuraj@icloud.com"><strong>Email</strong></a>.<br>
   ✨ Currently learning modern <strong>Python frameworks</strong> and production-grade tooling.<br>
   ⚡ Fun fact: I have an unhealthy obsession with <strong>clean, well-formatted code</strong>.
 </p>
