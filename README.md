@@ -9,13 +9,16 @@
   <img src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" width="100%" alt="Bottom Banner">
 </p>
 
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://count.getloli.com/get/@bibhanshu19?theme=rule34" />
+</p>
+
 <!-- Stats Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bibhanshu19&label=Profile%20views&color=5c12df&style=flat" alt="Profile views">
   <img src="https://img.shields.io/badge/dynamic/json?label=Stars&color=5c12df&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/bibhanshu19" alt="Profile Stars">
   <img src="https://img.shields.io/badge/dynamic/json?label=Forks&color=5c12df&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/bibhanshu19" alt="Profile Forks">
 </p>
-
 
 <h2 align="left">About Me</h2>
 
@@ -27,8 +30,8 @@
   ⚡ Fun fact: I have an unhealthy obsession with <strong>clean, well-formatted code</strong>.
 </p>
 
-
 <h2 align="left">Tech I Work With</h2>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="cplusplus logo" />
