@@ -10,9 +10,10 @@
 </p>
 
 <!-- Visitor Counter -->
-<p align="center">
+<div align="center">
+  <h4>Visitor Count</h4>
   <img src="https://count.getloli.com/get/@bibhanshu19?theme=rule34" />
-</p>
+</div>
 
 <!-- Stats Badges -->
 <p align="center">
