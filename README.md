@@ -1,46 +1,88 @@
-<h1 align="left">Hey, I'm RAJ 👋</h1>
-<p align="left">Machine Learning Engineer exploring how far creativity can go when paired with LLMs.</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="100%" alt="Top Banner">
-</p>
-
-<p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" width="100%" alt="Bottom Banner">
-</p>
-
-<!-- Visitor Counter -->
 <div align="center">
-  <h4>Visitor Count</h4>
-  <img src="https://count.getloli.com/get/@bibhanshu19?theme=rule34" />
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4aa,100:0d1117&height=120&section=header&animation=fadeIn)
+
 </div>
 
-<!-- Stats Badges -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Raj+%F0%9F%91%8B;ML+Engineer;LLM+Explorer;Voice+AI+Builder" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?label=Stars&color=5c12df&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/bibhanshu19" alt="Profile Stars">
-  <img src="https://img.shields.io/badge/dynamic/json?label=Forks&color=5c12df&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/bibhanshu19" alt="Profile Forks">
+  <em>Machine learning engineer — exploring how far creativity can go when paired with LLMs.</em>
 </p>
 
-<h2 align="left">About Me</h2>
+<div align="center">
 
-<p align="left">
-  🔭 Currently working with <strong>Large Language Models</strong> and evaluation pipelines.<br>
-  🌱 Mainly write code in <strong>Python</strong>, occasionally C++ when needed.<br>
-  👨‍💻 Check out my work on <a href="https://github.com/bibhanshuraj19?tab=repositories"><strong>GitHub</strong></a>.<br>
-  ✨ Currently learning modern <strong>Python frameworks</strong> and production-grade tooling.<br>
-  ⚡ Fun fact: I have an unhealthy obsession with <strong>clean, well-formatted code</strong>.
-</p>
+![](https://img.shields.io/badge/Python-Expert-00d4aa?style=flat-square&logo=python&logoColor=white&labelColor=0d1117)
+![](https://img.shields.io/badge/LLMs-Building-00d4aa?style=flat-square&logo=openai&logoColor=white&labelColor=0d1117)
+![](https://img.shields.io/badge/Voice_AI-Shipping-00d4aa?style=flat-square&logo=dependabot&logoColor=white&labelColor=0d1117)
+![](https://img.shields.io/badge/Open_to-Collaborate-58a6ff?style=flat-square&labelColor=0d1117)
 
-<h2 align="left">Tech I Work With</h2>
+</div>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="cplusplus logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" width="52" alt="tensorflow logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" width="52" alt="pytorch logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" width="52" alt="scikit-learn logo" />
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" width="52" alt="huggingface logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" width="52" alt="jupyter logo" />
+---
+
+## `$ whoami`
+
+```python
+raj = {
+    "focus"    : ["Large Language Models", "Voice Agents", "Evaluation Pipelines"],
+    "stack"    : ["Python", "C++"],
+    "learning" : ["Modern Python frameworks", "Production-grade AI tooling"],
+    "mantra"   : "Clean code is not a preference — it's a standard.",
+    "github"   : "github.com/bibhanshu19"
+}
+```
+
+---
+
+## `$ ls ~/stats`
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bibhanshu19&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa&text_color=c9d1d9&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibhanshu19&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9&langs_count=6" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=bibhanshu19&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d4aa&fire=ff7b00&currStreakLabel=00d4aa" />
+</div>
+
+---
+
+## `$ ls ~/tech`
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,sklearn,docker,git,jupyter,linux,vscode&perline=5&theme=dark" />
+</div>
+
+---
+
+## `$ git log --oneline`
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bibhanshu19&theme=github-compact&bg_color=0d1117&color=00d4aa&line=00d4aa&point=ffffff&hide_border=true&area=true&area_color=00d4aa" />
+</div>
+
+---
+
+## `$ cat ~/trophies`
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bibhanshu19&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=4" />
+</div>
+
+---
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4aa,100:0d1117&height=80&section=footer&animation=fadeIn)
+
+<sub>Visitor count</sub><br/>
+<img src="https://count.getloli.com/get/@bibhanshu19?theme=rule34" />
+
 </div>
