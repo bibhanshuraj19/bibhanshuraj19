@@ -1,7 +1,7 @@
 # Bibhanshu Raj
 
 AI Engineer focused on production voice agents and LLM systems.  
-Lead Developer at [Makunai Global] · CS @ BITS Pilani (2027)
+CS @ BITS Pilani (2027)
 
 ---
 
